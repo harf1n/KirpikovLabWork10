@@ -1,1 +1,2 @@
-# KirpikovLabWork10![8cb](https://user-images.githubusercontent.com/100131883/170101817-ec9978a5-2f6e-41b9-9deb-ad3a9975208f.gif)
+# KirpikovLabWork10
+![nano-machine-son-mgr](https://user-images.githubusercontent.com/100131883/170102581-3658dbd9-770c-4544-b101-2e6e2e2a9740.gif)
